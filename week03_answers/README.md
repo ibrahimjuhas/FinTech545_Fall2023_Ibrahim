@@ -1,12 +1,11 @@
-#Project Week 02
+#Project Week 03
 
 Git clone the repo
 Run all the cells in Jupyter notebook.
 
-The problem2.csv is sourced from GitHub and should be able to run on its own.
+The dailyreturn.csv and dailyprices.csv are sourced from local directory. Please change the directory to the raw link from github. The data sources are uploaded to GitHub. 
 
-If not, change the directory on pd.read_csv('') from GitHub location to local directory where problem2.csv is located.
-
+If not,change the directory on pd.read_csv('') from GitHub location to local directory where data sources are downloaded
 If you get an error on missing packages, please install them.
 
 
